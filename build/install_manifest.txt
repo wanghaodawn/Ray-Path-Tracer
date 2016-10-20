@@ -1,0 +1,14 @@
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/libglew.a
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/include/GL/glew.h
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/include/GL/glxew.h
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/include/GL/wglew.h
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/include/GLFW/glfw3.h
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/include/GLFW/glfw3native.h
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/cmake/glfw/glfw3Config.cmake
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/cmake/glfw/glfw3ConfigVersion.cmake
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/cmake/glfw/glfwTargets.cmake
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/cmake/glfw/glfwTargets-noconfig.cmake
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/pkgconfig/glfw3.pc
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/libglfw3.a
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/lib/libCMU462.a
+/Users/Dawn/Desktop/CG/asst3_pathtracer_2/pathtracer
